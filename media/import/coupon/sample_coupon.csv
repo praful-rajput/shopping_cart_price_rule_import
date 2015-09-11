@@ -1,0 +1,4 @@
+rule_name,description,status,customer_group,coupon_code,from_date,to_date,discount_type,discount_amount,user_per_coupon,stop_rules_processing,uses_per_customer,simple_free_shipping,website,discount_qty
+20% Off,20% Off,1,"0,1,2,4",20%OFF,7/20/2015,7/30/2015,by_percent,20,1,1,1,0,"1,2",
+FLAT10OFF,FLAT $10 off on whole cart,1,4,FLAT10OFF,7/20/2015,7/30/2015,cart_fixed,10,1,1,1,0,2,
+$5 Off,$5 Off,1,"0,1,2,4",$5OFF,7/20/2015,7/30/2015,by_fixed,5,1,1,1,0,"1,2",2
